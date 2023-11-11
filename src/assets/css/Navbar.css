@@ -1,0 +1,21 @@
+.navbar{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+.imgnav{
+    height: 90px;
+    width: auto;
+}
+.paradapng{
+height: 90px;
+width: auto;
+margin-left: 30px;
+}
+.enlaces{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-right: 25px;
+}
